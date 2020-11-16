@@ -1,5 +1,8 @@
 # Javascript Anti Anime
 
+
+[![Build Version](https://img.shields.io/badge/Version-1.0.0-yellow.svg)](https://github.com/skrub-dev/markov-debate-generator) [![Lisence](https://img.shields.io/badge/lisence-MIT-brightgreen.svg)](https://github.com/skrub-dev/markov-debate-generator/blob/main/LICENSE)
+
 A discord bot to detect, and delete anime. 
 
 If you do not wish to self-host you can add the bot to your server with [this convenient link](https://discord.com/oauth2/authorize?client_id=736232510085660762&scope=bot&permissions=67497024).
