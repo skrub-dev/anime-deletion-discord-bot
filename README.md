@@ -27,7 +27,7 @@ You can download the project in two ways:
 git clone https://github.com/skrub-dev/anime-deletion-discord-bot
 ```
 
-2. Alternatively you can download the [zip file](https://codeload.github.com/skrub-dev/anime-deletion-discord-bot/zip/master) and unzip it.
+2. Alternatively you can download the [zip file](https://codeload.github.com/skrub-dev/anime-deletion-discord-bot/zip/main) and unzip it.
 
 Next, open up your terminal of choice and head into the project directory.
 
