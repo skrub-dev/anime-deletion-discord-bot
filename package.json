@@ -1,0 +1,22 @@
+{
+  "name": "javascript-anti-anime",
+  "version": "1.0.0",
+  "description": "A discord bot to detect, and delete anime.",
+  "main": "index.js",
+  "engines": {
+    "node": "12.x"
+  },
+  "scripts": {
+    "run": "node index.js"
+  },
+  "author": "Humboldt123",
+  "license": "MIT",
+  "dependencies": {
+    "child-process": "^1.0.2",
+    "discord.js": "^12.4.1",
+    "jimp": "^0.16.1",
+    "node-fetch": "^2.6.1",
+    "request": "^2.88.2",
+    "sharp": "^0.26.2"
+  }
+}
