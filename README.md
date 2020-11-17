@@ -1,7 +1,7 @@
 # Javascript Anti Anime
 
 
-[![Build Version](https://img.shields.io/badge/Version-1.0.0-yellow.svg)](https://github.com/skrub-dev/markov-debate-generator) [![Lisence](https://img.shields.io/badge/lisence-MIT-brightgreen.svg)](https://github.com/skrub-dev/markov-debate-generator/blob/main/LICENSE)
+[![Build Version](https://img.shields.io/badge/Version-1.0.0-yellow.svg)](https://github.com/skrub-dev/anime-deletion-discord-bot) [![Lisence](https://img.shields.io/badge/lisence-MIT-brightgreen.svg)](https://github.com/skrub-dev/anime-deletion-discord-bot/blob/main/LICENSE)
 
 A discord bot to detect, and delete anime. 
 
